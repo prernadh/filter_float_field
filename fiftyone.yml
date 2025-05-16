@@ -1,0 +1,9 @@
+name: "@prernadh/filter_float_field"
+description: This plugin allows you to filter samples based on dynamic float values
+version: 1.0.0
+fiftyone:
+  version: "*"
+url: https://github.com/prernadh/filter_float_field.git
+license: Apache 2.0
+operators:
+  - filter_float_field
